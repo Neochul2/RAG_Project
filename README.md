@@ -35,4 +35,5 @@
 
    
 RAG Process
-<img width="383" height="645" alt="image" src="https://github.com/user-attachments/assets/1a15eb6e-8bc8-41a9-adf3-e6def507383a" />
+<img width="723" height="706" alt="image" src="https://github.com/user-attachments/assets/dd112825-fad4-494e-95cc-35565a92d4db" />
+
