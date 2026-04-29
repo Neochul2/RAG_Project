@@ -36,7 +36,8 @@ RAG_Project
 
    
 RAG Process
-<img width="826" height="696" alt="image" src="https://github.com/user-attachments/assets/649212b6-b9ab-4026-adea-a2dc0ef4e853" />
+<img width="757" height="702" alt="image" src="https://github.com/user-attachments/assets/a579381b-f2e0-4d56-afc5-5a9abbb8dc5d" />
+
 
 
 
