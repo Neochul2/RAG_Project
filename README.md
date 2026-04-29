@@ -33,4 +33,6 @@
  - 간단 챗봇
  - GGUF 로컬 모델 설정
 
+   
+RAG Process
 <img width="383" height="645" alt="image" src="https://github.com/user-attachments/assets/1a15eb6e-8bc8-41a9-adf3-e6def507383a" />
