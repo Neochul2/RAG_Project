@@ -1,3 +1,4 @@
+RAG_Project
 
 0. 환경 설정
  - 라이브러리 설치
@@ -35,5 +36,6 @@
 
    
 RAG Process
-<img width="723" height="706" alt="image" src="https://github.com/user-attachments/assets/dd112825-fad4-494e-95cc-35565a92d4db" />
+<img width="790" height="720" alt="image" src="https://github.com/user-attachments/assets/7792890d-436a-49f9-9d3d-2fae959625b8" />
+
 
