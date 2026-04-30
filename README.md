@@ -41,3 +41,14 @@ RAG Process
 
 
 
+
+
+
+참고용 
+<img width="994" height="653" alt="image" src="https://github.com/user-attachments/assets/e41c2bce-d48e-41a9-96de-7ee57506b172" />
+
+
+
+
+
+
