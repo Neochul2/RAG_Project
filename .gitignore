@@ -15,3 +15,5 @@ dataset/
 .venv/
 
 vector_db/
+
+.ipynb_checkpoints/
