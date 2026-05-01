@@ -1,9 +1,13 @@
-#gitignore 보안 및 자동생성파일들 제외 
+#gitignore 보안 및 자동생성파일들 제외
 
-#설정 및 환경변수 
+#설정 및 환경변수
 config.py
 .env
 __pycache__/
+
+#jupyter 자동생성파일
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
 
 #데이터 셋(이미지 파일들)
 dataset/
@@ -11,9 +15,10 @@ dataset/
 *.jpg
 *.jpeg
 *.pdf
+
 #가상환경
 .venv/
+.venv
 
+#벡터 database
 vector_db/
-
-.ipynb_checkpoints/
