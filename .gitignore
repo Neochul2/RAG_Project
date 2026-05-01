@@ -18,7 +18,13 @@ dataset/
 
 #가상환경
 .venv/
-.venv
+venv/
+env/
+ENV/
+
 
 #벡터 database
 vector_db/
+
+# 로그
+*.log
